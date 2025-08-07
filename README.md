@@ -1,6 +1,33 @@
 # 73nko Theme
 
-A custom VS Code theme featuring a rich purple and pink color palette.
+**A sophisticated VS Code theme collection featuring an elegant purple and pink aesthetic**
+
+The 73nko Theme is a carefully crafted dual-variant color scheme that brings warmth and sophistication to your coding environment. Designed with developer productivity and visual comfort in mind, this theme features a rich palette of purples, pinks, and complementary colors that reduce eye strain while maintaining excellent code readability.
+
+## ✨ Theme Variants
+
+### 🌙 73nko Dark
+A deep, immersive dark theme perfect for extended coding sessions. Features:
+- **Deep purple background** (`#1f0a32`) for reduced eye strain in low-light environments
+- **Warm pink accents** (`#e299bb`) for syntax highlighting and UI elements
+- **Excellent contrast ratios** for optimal readability
+- **Subtle gradients** and color transitions for a modern, polished look
+
+### ☀️ 73nko Light
+A bright, clean light theme ideal for daytime work. Features:
+- **Soft lavender background** (`#f5f2f7`) that's easy on the eyes
+- **Rich purple syntax highlighting** for clear code distinction
+- **Balanced contrast** that works well in bright environments
+- **Consistent color language** with the dark variant for seamless switching
+
+## 🎨 Design Philosophy
+
+This theme emphasizes:
+- **Visual Harmony**: Carefully selected colors that work together beautifully
+- **Developer Focus**: Syntax highlighting that enhances code comprehension
+- **Accessibility**: High contrast ratios and colorblind-friendly palette
+- **Consistency**: Unified design language across both light and dark variants
+- **Modern Aesthetics**: Clean, contemporary styling that doesn't distract from your code
 
 ## Color Palette
 
@@ -48,6 +75,6 @@ vsce package
 
 This will create a `.vsix` file that can be installed in VS Code.
 
-## License
+## 📄 License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
