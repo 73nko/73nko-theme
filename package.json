@@ -1,0 +1,37 @@
+{
+  "name": "73nko-theme",
+  "displayName": "73nko Theme",
+  "description": "A custom VS Code theme by 73nko",
+  "version": "1.0.0",
+  "publisher": "73nko",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "73nko Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/73nko-dark-theme.json"
+      },
+      {
+        "label": "73nko Light",
+        "uiTheme": "vs",
+        "path": "./themes/73nko-light-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/73nko/73nko-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "light",
+    "color-theme"
+  ]
+}
